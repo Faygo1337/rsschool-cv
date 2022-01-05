@@ -27,7 +27,6 @@ Practical skills in writing websites
 * * *
 # Education: 
 * I am studying in the 9th grade
-
 * Сourses:
     * [Rsschool](https://app.rs.school)
 * * *
