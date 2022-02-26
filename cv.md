@@ -12,14 +12,21 @@ Today my goal is to become a Front-Enddeveloper. I work well in a team, I quickl
  * * *
 # Skills:
 * HTML
-* CSS/ SCSS
+* CSS/SCSS
 * Java script (Basic)
 * Git
 * * *
 # My Code:
 ```
-//You know nothing, Jon Snow!
-console.log('You know nothing, Jon Snow!')
+const convertText = (str) => {
+  if (str === '') {
+    return ''
+  } else if (str[0].toUpperCase() !== str[0]) {
+    return reverse(str);
+  } else {
+    return str;
+  };
+};
 ```
 * * *
 # Expirience:
@@ -32,6 +39,3 @@ Practical skills in writing websites
 * * *
 # My english:
 A1-level
-    
-    
-
